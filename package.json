@@ -1,0 +1,28 @@
+{
+  "name": "react-native-plus-button",
+  "version": "1.0.0",
+  "description": "a plus button that toggles into a x for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/team-oath/react-native-plus-button.git"
+  },
+  "keywords": [
+    "plus",
+    "button",
+    "buttons",
+    "react-native"
+  ],
+  "author": "mrblueblue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/team-oath/react-native-plus-button/issues"
+  },
+  "homepage": "https://github.com/team-oath/react-native-plus-button",
+  "dependencies": {
+    "react-native": "^0.4.1"
+  }
+}
